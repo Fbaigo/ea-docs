@@ -1,5 +1,7 @@
 site_name: ea-docs
 nav:
-  - Home: index.md
+  - Home: home.md
+  - Topologias:
+    - Colector comun por parametros H: /cc/cc_h.md
   - About: about.md
 theme: readthedocs
